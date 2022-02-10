@@ -1,0 +1,9 @@
+#postive or negative
+a=int(input('enter a:'))
+if a>=0:
+    print('a is positive')
+else:
+    print('a is negative')
+enter a:68
+a is positive
+>
